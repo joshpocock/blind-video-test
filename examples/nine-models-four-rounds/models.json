@@ -1,0 +1,12 @@
+{
+ "_note": "Higgsfield credits for one 10 s, 16:9, 1080p clip with sound, as seen on 2026-10-22 to 2026-10-26. Prices change: read the Generate button and put your own numbers here. Use null when you do not know a price.",
+ "01-minimax-h3": {"name": "MiniMax H3", "credits": 20},
+ "02-kling-3-0": {"name": "Kling v3.0", "credits": 25},
+ "03-wan-3-0": {"name": "Wan 3.0", "credits": 35},
+ "04-gemini-omni-flash-1-1": {"name": "Gemini Omni Flash 1.1", "credits": 45},
+ "05-flux-3": {"name": "FLUX 3 Video", "credits": 80},
+ "06-grok-imagine-1-5": {"name": "Grok Video 1.5", "credits": 80},
+ "07-seedance-2-0": {"name": "Seedance 2.0", "credits": 120},
+ "08-seedance-2-5": {"name": "Seedance 2.5", "credits": 160},
+ "09-kling-4-0": {"name": "Kling 4.0", "credits": 20}
+}
